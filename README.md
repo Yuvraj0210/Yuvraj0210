@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj0210&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj0210" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Pipelines**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **React**
